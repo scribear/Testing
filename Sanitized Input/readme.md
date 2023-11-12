@@ -1,7 +1,7 @@
 Contains manually sanitized files for testing transcription.
-Regarding Project Gutenberg---
 
-Excerpt From License-
+
+Excerpt From Project Gutenberg License-
 Books Not Protected Under U.S. Copyright Law
 
 These books are not protected by copyright in the United States and anyone located in the United States — including Project Gutenberg and you — may read and distribute them. If you don’t live in the United States you’ll have to check the laws of the country you live in before downloading and distributing our ebooks.
