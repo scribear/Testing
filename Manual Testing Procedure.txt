@@ -1,0 +1,15 @@
+Manual Testing Procedure
+
+1). Download Project Gutenberg text.
+2). Strip non-book text including title and attribution.
+3). Download included Librevox recordings of all chapters from Project Gutenberg. May source alternatively voiced reads from Librevox website for testing, model training, etc.
+4). Strip all non-corresponding intro/title/attribution info in each chapter using an audio file editor such as audacity, etc.
+5). Merge each chapter into a master audio file.
+6). Play master audio using mic emulator. Do not run other audio on the system as the driver level emulation is system wide.
+7). Download the transcript.
+8). You may run my testing utility, or enter the transcript and master text into diffchecker. Save results.
+9). When switching between multiple audio files, first refresh scribear and then cue the next file.
+
+Misc. Considerations-
+Please use a standardized naming format!
+1-1.5x is the optimal speed range.
