@@ -1,0 +1,11 @@
+Builds		Platform	Browser		Service
+
+Live		MacOS		Firefox*	Webspeech***
+Experimental	Windows		Chrome**	Azure
+				Edge		Whisper
+		iOS
+		Android
+
+*Mic input is non-functional
+**Desired browser for demo machine per Angrave
+***Lowest level of accuracy. Will eventually be phased out per Yuxuan
